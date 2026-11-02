@@ -1,6 +1,6 @@
 # Hi, I'm Ramon Benavides 👋
 
-Analytics and operations professional with nearly 3 years of experience building forecasting models, monitoring systems, KPI frameworks, and data pipelines that drive real business decisions.
+Analytics and operations professional with more than 3 years of experience building forecasting models, monitoring systems, KPI frameworks, and data pipelines that drive real business decisions.
 
 Currently based in **San Francisco, CA** — originally from **Maracaibo, Venezuela**. Bilingual in English and Spanish.
 
